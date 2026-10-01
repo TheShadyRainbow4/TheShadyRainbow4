@@ -10,7 +10,7 @@
 
 
 
-## **🚀 What It Is**
+## **🚀 What This GitHub Is**
 * This is a massive collection of all the software, websites, android apps, & Scripts I have made 
 * There are over 200 Repositories on here that I am slowly sanitizing and making public
 
@@ -19,7 +19,7 @@
 ## **📅 Plans**
 -->
 
-## **🛠️ Development**
+## **🛠️ Development Compliance EliteSoftware Holds themselves to**
 Built in accordance with EliteSoftware GUI development guidelines.
 - **Framework**: PowerShell Scripting / .NET WinForms wrapper
 - **Visual Styles**: Enabled for classic desktop theme compatibility.
