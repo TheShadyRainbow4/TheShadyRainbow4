@@ -34,7 +34,7 @@ Built in accordance with EliteSoftware GUI development guidelines.
 ---
 
 -->
-### EliteSoftwareTech Co. - GUI Guidelines
+### 💻 EliteSoftwareTech Co. - GUI Guidelines
 - **Authors**: Zachary Whiteman, Susan Gemm, TheShadyRainbow4, EliteSoftwareTech Co.
 - **Company**: EliteSoftware / EliteSoftwareTech Co.
 - **Document Version**: 1.2.0.0
